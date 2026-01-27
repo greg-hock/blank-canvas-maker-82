@@ -67,7 +67,7 @@ export default {
                     'navy': '#0F172A',
                     'space': '#080C17',
                     'silver': '#E2E8F0',
-                    'orange': '#F97316',
+                    'orange': '#EA580C',
                     'purple': '#8B5CF6',
                 }
 			},
