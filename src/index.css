@@ -141,7 +141,7 @@
   border-radius: 0.75rem;
   background: 
     linear-gradient(to right, transparent, transparent) padding-box,
-    linear-gradient(135deg, rgba(249, 115, 22, 0.5), rgba(139, 92, 246, 0.5)) border-box;
+    linear-gradient(135deg, rgba(234, 88, 12, 0.5), rgba(139, 92, 246, 0.5)) border-box;
   border: 2px solid transparent;
   transition: all 0.3s ease-in-out;
 }
@@ -149,7 +149,7 @@
 .fancy-border:hover {
   background: 
     linear-gradient(to right, transparent, transparent) padding-box,
-    linear-gradient(135deg, rgba(249, 115, 22, 0.8), rgba(139, 92, 246, 0.8)) border-box;
+    linear-gradient(135deg, rgba(234, 88, 12, 0.8), rgba(139, 92, 246, 0.8)) border-box;
   box-shadow: 0 10px 25px -5px rgba(139, 92, 246, 0.1);
   transform: translateY(-2px);
 }

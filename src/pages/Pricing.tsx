@@ -166,7 +166,8 @@ const Pricing = () => {
       trackSignupSuccess({
         id: selectedTier.id.toString(),
         name: selectedTier.name,
-        price: selectedTier.price
+        price: selectedTier.price,
+        email
       });
 
       // Increment signup count for this subdomain only
